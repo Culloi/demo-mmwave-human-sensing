@@ -6,11 +6,11 @@ Human sensing demo using mmWave radar technology. This project targets the Quect
 
 This demo leverages the UART1 kernel serdev driver on Quectel Pi M2 to receive and parse raw radar frames. A C program collects sensing events, a Python standard-library backend provides local web service, and an HTML dashboard visualizes respiration rate, heart rate, body movement, sleep metrics and historical sensing data.
 
-<img width="800" alt="English Screenshot 1" src="https://github.com/user-attachments/assets/25fae61b-fce3-4e93-803f-b42cd38995e4" />
+<img width="800" alt="Screenshot 1" src="images/1.heart.png" />
 
-<img width="800" alt="English Screenshot 2" src="https://github.com/user-attachments/assets/b1ec6c5e-00c2-4689-9068-bb2a4cf87c28" />
+<img width="800" alt="Screenshot 2" src="images/2.waveforms.png" />
 
-<img width="800" alt="English Screenshot 3" src="https://github.com/user-attachments/assets/de71dd5a-81c9-4e53-9988-fe76fac075a1" />
+<img width="800" alt="Screenshot 3" src="images/3.sleep.png" />
 
 ## 1. Development Materials & Hardware
 
