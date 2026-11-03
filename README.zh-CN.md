@@ -14,11 +14,11 @@
 UART采用115200、8N1、无流控，信号为3.3V TTL，不能将5V接到信号脚。
 模组上电后等待至少30秒；安装朝向、倾角及测量距离按模组指南执行，不同安装方式会影响结果。
 
-<img width="800" alt="中文图片1" src="https://github.com/user-attachments/assets/7a41a42b-b753-45d3-a6a7-cfed0bd7d0f5" />
+<img width="800" alt="图片1" src="images/1.heart_zn.png" />
 
-<img width="800" alt="中文图片2" src="https://github.com/user-attachments/assets/7bd3b989-d397-41d5-9d57-298bbfc04395" />
+<img width="800" alt="图片2" src="images/2.waveforms_zn.png" />
 
-<img width="800" alt="中文图片3" src="https://github.com/user-attachments/assets/24258d72-bbc5-4492-8f4a-e8938f73b74f" />
+<img width="800" alt="图片3" src="images/3.sleep_zn.png" />
 
 ## 2. 获取代码
 
